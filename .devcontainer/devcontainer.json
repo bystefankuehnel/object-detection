@@ -1,0 +1,7 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "sed -i 's#/usr/src/ultralytics/runs#${containerWorkspaceFolder}/runs#' /root/.config/Ultralytics/settings.yaml",
+  "postAttachCommand": "bash"
+}
