@@ -4,7 +4,7 @@
 
 ## ⚙️ Usage
 
-First, open the project in [GitHub Codespaces](https://github.com/codespaces) by clicking [here](https://codespaces.new/?template_repository=bystefankuehnel/ultralytics). Then, follow the steps below.
+First, open the project in GitHub Codespaces by clicking [here](https://codespaces.new/?template_repository=bystefankuehnel/object-detection). Then, follow the steps below.
 
 > **Note**: GitHub Codespaces are free for a limited time (180 hours). When not in use, an active Codespace should be stopped or deleted. You can manage your GitHub Codespaces by clicking [here](https://github.com/codespaces).
 
