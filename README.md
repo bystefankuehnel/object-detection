@@ -33,7 +33,7 @@ yolo predict model=yolov8n-seg.pt source='cars.mp4'
 **Options**:
 
 - `model`: Specifies the YOLO model for object detection. For a list of available models, see [here](https://github.com/ultralytics/ultralytics#models).
-- `source``: Specifies the video source, which can be an image or video file.
+- `source`: Specifies the video source, which can be an image or video file.
 
 ## 👷‍ Error Found?
 
